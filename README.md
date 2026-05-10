@@ -16,7 +16,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-orange) ![CSS3](https://img.shields.io/badge/CSS3-blue) ![React](https://img.shields.io/badge/React-blue) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue) ![Vite](https://img.shields.io/badge/Vite-purple)  
 ![Node.js](https://img.shields.io/badge/Node.js-green) ![Express](https://img.shields.io/badge/Express-black) ![NestJS](https://img.shields.io/badge/NestJS-red) ![Spring](https://img.shields.io/badge/Spring-green)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-green) ![MySQL](https://img.shields.io/badge/MySQL-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue) ![Prisma](https://img.shields.io/badge/Prisma-blue)  
-![Vercel](https://img.shields.io/badge/Vercel-black) ![Netlify](https://img.shields.io/badge/Netlify-blue) ![Render](https://img.shields.io/badge/Render-green) ![Cloudflare](https://img.shields.io/badge/Cloudflare-orange)  
+![Vercel](https://img.shields.io/badge/Vercel-black) ![Netlify](https://img.shields.io/badge/Netlify-blue) ![Render](https://img.shields.io/badge/Render-green) [Cloudinary](https://img.shields.io/badge/Cloudinary-blue) 
 ![GitHub](https://img.shields.io/badge/GitHub-black) ![Docker](https://img.shields.io/badge/Docker-blue) ![Postman](https://img.shields.io/badge/Postman-orange) ![ESLint](https://img.shields.io/badge/ESLint-purple) ![Prettier](https://img.shields.io/badge/Prettier-yellow)  
 ![NumPy](https://img.shields.io/badge/NumPy-blue) ![Pandas](https://img.shields.io/badge/Pandas-purple) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange) ![Canva](https://img.shields.io/badge/Canva-blue)
 
